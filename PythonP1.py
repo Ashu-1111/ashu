@@ -9,3 +9,4 @@ print("Total marks obtain: ",sum)
 avg=sum/3
 
 print("Average of the obtain marks: ",avg)
+print("Average of the obtain marks: ",avg)
